@@ -120,9 +120,20 @@
   }
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 460px) {
   .gpt3__whatgpt3-container .gpt3__features-container__feature {
     margin: 1rem 0;
     min-width: 100%;
+  }
+  .gpt3__whatgpt3-heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 2rem;
+  }
+
+  .gpt3__whatgpt3-heading p {
+    margin-top: 1.5rem;
   }
 }

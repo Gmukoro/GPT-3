@@ -16,6 +16,7 @@
 
 .gpt3__navbar-links_logo {
   margin-right: 2rem;
+  /* position: fixed; */
 }
 
 .gpt3__navbar-links_logo img {
@@ -75,7 +76,6 @@
   margin-left: 1rem;
 
   display: none;
-  position: relative;
 }
 
 .gpt3__navbar-menu svg {
