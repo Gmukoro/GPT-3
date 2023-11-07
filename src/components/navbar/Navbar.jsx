@@ -24,10 +24,10 @@ function Navbar() {
               <a href="#wgpt3">What is GPT3? </a>
             </span>
             <span>
-              <a href="#possibility">Open AI</a>
+              <a href="#features">Case Study </a>
             </span>
             <span>
-              <a href="#features">Case Study </a>
+              <a href="#possibility">Open AI</a>
             </span>
             <span>
               <a href="#blog">Library </a>
